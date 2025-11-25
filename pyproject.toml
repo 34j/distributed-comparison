@@ -37,7 +37,7 @@ scripts.distributed-comparison = "distributed_comparison.cli:app"
 
 [dependency-groups]
 dev = [
-  "pytest>=8,<9",
+  "pytest>=9,<10",
   "pytest-cov>=6,<7",
 ]
 docs = [
